@@ -1,14 +1,17 @@
 360FinalProject
 ===============
-Ben Green
-William Newberry IV
-Peter Keyser
-Sameer Singh
-Edward Parham
+*Ben Green
+*William Newberry IV
+*Peter Keyser
+*Sameer Singh
+*Edward Parham
 
 HTTP client: 
-  Ben Green
+*Ben Green
+
 UDP Server:
-  William Newberry IV
+*William Newberry IV
+
 UDP Client:
-  Peter Keyser
+*Peter Keyser
+*Edward Parham
